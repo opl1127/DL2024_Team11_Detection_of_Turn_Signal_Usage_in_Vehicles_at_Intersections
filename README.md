@@ -54,10 +54,10 @@
 接著，針對這些右轉或左轉的車輛，我們進行進一步的標註，框出車尾的方向燈，以辨識是否正確施打方向燈。
 - 以下是具體的標註處理步驟：
 1.	標示車輛方向
-	- •	首先，對每張圖片中的車輛進行標註，標明其行駛方向（左轉或右轉）。
-	- •	使用標註工具（如 labelImg）框出每輛車的位置，並附上標籤，如 left_turn 或 right_turn。
+	- 首先，對每張圖片中的車輛進行標註，標明其行駛方向（左轉或右轉）。
+	- 使用標註工具（如 labelImg）框出每輛車的位置，並附上標籤，如 left_turn 或 right_turn。
 2.	框出車尾方向燈
-	- •	對於已標註為左轉或右轉的車輛，再次使用標註工具框出車尾方向燈的位置。
-	- •	標註方向燈的狀態，如 correct_left_turn_signal 或 incorrect_left_turn_signal，以表明該車輛是否正確施打了左轉方向燈；同樣地，使用 correct_right_turn_signal 或 incorrect_right_turn_signal 來標註右轉方向燈的狀態。
+	- 對於已標註為左轉或右轉的車輛，再次使用標註工具框出車尾方向燈的位置。
+	- 標註方向燈的狀態，如 correct_left_turn_signal 或 incorrect_left_turn_signal，以表明該車輛是否正確施打了左轉方向燈；同樣地，使用 correct_right_turn_signal 或 incorrect_right_turn_signal 來標註右轉方向燈的狀態。
 
 ## 參考資料
