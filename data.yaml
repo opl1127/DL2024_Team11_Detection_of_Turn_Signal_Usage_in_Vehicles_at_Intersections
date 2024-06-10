@@ -1,0 +1,5 @@
+train: path/to/your/image/train
+val: path/to/your/image/val
+nc: 2  # 根據你的類別數量修改
+names: ['右轉' , '左轉']  # 修改為你的類別名稱
+
