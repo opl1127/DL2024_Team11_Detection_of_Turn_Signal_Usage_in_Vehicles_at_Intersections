@@ -25,5 +25,22 @@
 - **數據標註工具**: labelImg
 - **深度學習模型**: Yolo v8
 - **編程語言**: Python
-- **深度學習框架**: TensorFlow 或 PyTorch
 - **開發環境**: 個人PC
+
+### dataset放置方式
+	project-root/
+	├── data/
+	│   ├── images/
+	│   │   ├── train/
+	│   │   │   ├── image1.jpg
+	│   │   │   └── image2.jpg
+	│   │   ├── val/
+	│   │       ├── image1.jpg
+	│   │       └── image2.jpg
+	│   ├── labels/
+	│   │   ├── train/
+	│   │   │   ├── image1.txt
+	│   │   │   └── image2.txt
+	│   │   ├── val/
+	│   │       ├── image1.txt
+	│   │       └── image2.txt
