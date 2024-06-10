@@ -74,6 +74,27 @@
 
 
 ## 檔案介紹
-1. 
+- data.yaml(設定資料路徑以及標籤內容)
+- train.py(訓練腳本)
+- vedio_inference.py(使用訓練完的模型進行推理)
+- result.py(結果驗證)
+
+
+## 如何訓練
+1. 安裝 pip install ultralytics
+2. 依照上面格式將dataset整理好
+3. 更改 data.yaml
+4. 更改train.py並執行
+
+## 如何使用
+1. 更改 vedio_inference.py
+2. 執行 python vedio_inference.py > output.txt 將執行結果保存在txt檔案中
+
+## 驗證結果
+1. 更改 result.py 
+2. 執行 result.py 來檢測訓練結果
+
+
 
 ## 參考資料
+https://henry870603.medium.com/object-detection-yolov8%E8%A9%B3%E8%A7%A3-fdf8874e5e99
