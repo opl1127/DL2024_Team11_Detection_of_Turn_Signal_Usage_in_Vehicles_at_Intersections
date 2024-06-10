@@ -98,3 +98,6 @@
 
 ## 參考資料
 https://henry870603.medium.com/object-detection-yolov8%E8%A9%B3%E8%A7%A3-fdf8874e5e99
+https://ithelp.ithome.com.tw/articles/10332185?sc=rss.iron
+https://hackmd.io/@luckychi/yolov8_simple_tutorial
+https://blog.csdn.net/qq_40716944/article/details/128648001
