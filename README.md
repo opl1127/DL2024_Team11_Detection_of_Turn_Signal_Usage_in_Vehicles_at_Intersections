@@ -26,8 +26,8 @@
 - **深度學習模型**: Yolo v8
 - **編程語言**: Python
 - **硬體配置**: 
-	•	CPU: Intel Core i5-13400
-	•	GPU: NVIDIA GeForce RTX 4060
+	- •	CPU: Intel Core i5-13400
+	- •	GPU: NVIDIA GeForce RTX 4060
 
 ## 數據集
 本專案所使用的數據集是由學校提供，目的是用於開發和訓練自動識別路口方向燈狀態的系統。
