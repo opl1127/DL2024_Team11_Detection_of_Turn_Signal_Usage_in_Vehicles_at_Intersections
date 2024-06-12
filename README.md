@@ -78,7 +78,7 @@
 - train.py(訓練腳本)
 - vedio_inference.py(使用訓練完的模型進行推理)
 - result.py(結果驗證)
-- best.pt(我的訓練權重檔案)
+- best.pt(訓練權重檔案)
 
 
 ## 如何訓練
